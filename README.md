@@ -1,3 +1,32 @@
-# test-case-for-login-page-of-facebook
-To test the functionality of the Facebook login page to ensure users can successfully log in with valid credentials and appropriate error handling for invalid inputs.
-This test case is designed to verify the login functionality of the Facebook application using valid user credentials. The objective is to ensure that a registered user can successfully log in to their Facebook account. To begin, the user launches the Facebook application and is presented with the login screen. The user then enters a valid email address or phone number along with the correct password associated with their account. After providing the credentials, the user clicks on the "Log In" button. If the details are correct, the user should be redirected to the Facebook homepage or news feed, indicating a successful login. This test case confirms that the system accurately authenticates valid users and grants them access to their profiles.
+Facebook Login Page - Description
+The Facebook login page allows users to securely access their Facebook accounts using their registered email address or phone number and password. It features:
+
+Two input fields:
+
+Email or Phone Number
+
+Password
+
+Buttons:
+
+Log In: Authenticates the user and redirects to their homepage.
+
+Forgotten password?: Redirects to password recovery options.
+
+Create new account: Opens the sign-up form for new users.
+
+Security features:
+
+Input validations
+
+Password encryption
+
+CAPTCHA (if suspicious activity is detected)
+
+UI Elements:
+
+Facebook logo at the top
+
+Clean and simple layout for better usability
+
+Option to stay logged in (Remember Me)
