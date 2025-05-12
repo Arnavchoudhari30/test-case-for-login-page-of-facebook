@@ -8,7 +8,6 @@ Email or Phone Number
 Password
 
 Buttons:
-
 Log In: Authenticates the user and redirects to their homepage.
 
 Forgotten password?: Redirects to password recovery options.
